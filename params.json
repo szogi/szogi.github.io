@@ -1,6 +1,6 @@
 {
   "name": "szogi at GitHub",
   "tagline": "",
-  "body": "#  OpenWRT Project\r\n\r\n## Hardware support\r\n### Devices\r\n* a\r\n* b\r\n\r\n## Packages\r\n### [open2300](https://github.com/szogi/packages/tree/master/utils/open2300)\r\n* [Kenneth Jahn Lavrsen's](http://www.lavrsen.dk/) [open2300 project](http://www.lavrsen.dk/foswiki/bin/view/Open2300/WebHome) (current OpenWRT fork: r12)\r\n\r\n## Code\r\nTODO\r\n\r\n## Other projects\r\n### Redmine plugins\r\n* TBD\r\n\r\n## Contact\r\n@szogi",
+  "body": "#  OpenWRT Project\r\n\r\n## Hardware support\r\n### MIPS architecture\r\n*\tAirties WAV-281 (Infineon danube)\r\n*\tLa Fonera 2.0N (RT3052 / MIPS 24KEc)\r\n*\tObserva Telecom VH4032N (BCM6368 / BMIPS Dual Core)\r\n*\tRalink RT5350 (MIPS 24KEc)\r\n*\tRalink RT2880f (MIPS 4KEc)\r\n*\tRalink RT3052 (MIPS 24Kec)\r\n*\tUbiquiti RouterStation (MIPS 24Kc)\r\n\r\n## Packages\r\n### [open2300](https://github.com/szogi/packages/tree/master/utils/open2300)\r\n* [Kenneth Jahn Lavrsen's](http://www.lavrsen.dk/) [open2300 project](http://www.lavrsen.dk/foswiki/bin/view/Open2300/WebHome) (current OpenWRT fork: r12)\r\n\r\n## Other code\r\n###FIXME###\r\n\r\n## Other projects\r\n### Redmine plugins\r\n* TBD\r\n\r\n## Contact\r\n@szogi",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
